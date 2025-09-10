@@ -1,8 +1,12 @@
 <script setup>
-import SariayaMap from "@/components/SariayaMap.vue";
+import SariayaMap from "./SariayaMap.vue";
+import stalls from "../assets/data/stalls.json";
+import volante1 from "../assets/data/volante1.js";
 
-import stalls from "@/assets/data/stalls.json";
-import volante1 from "@/assets/data/volante1.js";
+// Callback function when a stall is clicked
+function onStallClick(data) {
+  console.log("Stall clicked:", data);
+}
 </script>
 
 <template>
@@ -11,5 +15,6 @@ import volante1 from "@/assets/data/volante1.js";
     :scope-data="volante1"
     :center="[13.965601, 121.527501]"
     :zoom="20"
+    @stall-click="onStallClick"
   />
 </template>

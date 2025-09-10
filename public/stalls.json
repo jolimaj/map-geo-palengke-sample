@@ -1,0 +1,262 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        121.52838400110564,
+        13.96499312888139
+      ]
+    },
+    "properties": {
+      "Name": "Stall1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        121.52750809737799,
+        13.964676246826112
+      ]
+    },
+    "properties": {
+      "Name": "Stall2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        121.52663265369256,
+        13.964990779161928
+      ]
+    },
+    "properties": {
+      "Name": "Stall3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        121.52714864447489,
+        13.96603781517004
+      ]
+    },
+    "properties": {
+      "Name": "Stall4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        121.52714958448034,
+        13.966224512860759
+      ]
+    },
+    "properties": {
+      "Name": "Stall5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        121.52670592459205,
+        13.964885986300633
+      ]
+    },
+    "properties": {
+      "Name": "Stall6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        121.52815109711543,
+        13.965586731364759
+      ]
+    },
+    "properties": {
+      "Name": "Stall7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        121.52698733312202,
+        13.966309821991928
+      ]
+    },
+    "properties": {
+      "Name": "Stall8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        121.52784922847502,
+        13.966514373023331
+      ]
+    },
+    "properties": {
+      "Name": "Stall9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        121.52762642425445,
+        13.965922964004015
+      ]
+    },
+    "properties": {
+      "Name": "Stall10"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        121.52830011028678,
+        13.965397299326085
+      ]
+    },
+    "properties": {
+      "Name": "Stall11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        121.5276208622718,
+        13.966361987627474
+      ]
+    },
+    "properties": {
+      "Name": "Stall12"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        121.52695969837923,
+        13.96537208560559
+      ]
+    },
+    "properties": {
+      "Name": "Stall13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        121.52665554902816,
+        13.96636164161546
+      ]
+    },
+    "properties": {
+      "Name": "Stall14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        121.52695593409614,
+        13.965948482663562
+      ]
+    },
+    "properties": {
+      "Name": "Stall15"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        121.52735630190924,
+        13.96581637042994
+      ]
+    },
+    "properties": {
+      "Name": "Stall16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        121.52829996054932,
+        13.966111242197439
+      ]
+    },
+    "properties": {
+      "Name": "Stall17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        121.52749248587382,
+        13.966497096260511
+      ]
+    },
+    "properties": {
+      "Name": "Stall18"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        121.52824208201324,
+        13.965527492224219
+      ]
+    },
+    "properties": {
+      "Name": "Stall19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        121.52810580646286,
+        13.965245037523113
+      ]
+    },
+    "properties": {
+      "Name": "Stall20"
+    }
+  }
+]
