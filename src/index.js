@@ -6,6 +6,6 @@ export { Map };
 // Optional default export for Vue plugin usage
 export default {
   install(app) {
-    app.component('VueMap', Map);
+    app.component('MapGeoPalengkeSample', Map);
   }
 };
