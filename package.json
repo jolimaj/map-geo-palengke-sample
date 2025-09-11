@@ -4,7 +4,7 @@
   "author": {
     "name": "Jolima Javin"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/map-geo-palengke-sample.umd.js",
   "module": "dist/map-geo-palengke-sample.es.js",
   "exports": {

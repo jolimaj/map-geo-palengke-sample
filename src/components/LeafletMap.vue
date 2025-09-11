@@ -10,6 +10,7 @@ function onStallClick(data) {
 </script>
 
 <template>
+<div class="w-full h-[500px] rounded overflow-hidden">
   <Map
     :stalls-data="stalls"
     :scope-data="scopeData"
@@ -17,4 +18,5 @@ function onStallClick(data) {
     :zoom="20"
     @stall-click="onStallClick"
   />
+</div>
 </template>
