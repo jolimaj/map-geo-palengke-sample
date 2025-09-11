@@ -9,11 +9,15 @@
   "engines": {
     "node": "^20.19.0 || >=22.12.0"
   },
-  "module": "dist/sariaya-map.es.js",
-   "files": [
-    "dist",
-    "src"
-  ],
+  "main": "dist/map-geo-palengke-sample.umd.js",
+  "module": "dist/map-geo-palengke-sample.es.js",
+  "exports": {
+    ".": {
+      "import": "./dist/map-geo-palengke-sample.es.js",
+      "require": "./dist/map-geo-palengke-sample.umd.js"
+    }
+  },
+  "files": ["dist", "src"],
   "scripts": {
     "build": "vite build",
     "dev": "vite"
