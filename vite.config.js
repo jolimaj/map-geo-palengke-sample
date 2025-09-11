@@ -1,20 +1,20 @@
 import { defineConfig } from "vite";
 import vue from "@vitejs/plugin-vue";
-import path from "path";
 
 export default defineConfig({
   plugins: [vue()],
   build: {
     lib: {
-      entry: path.resolve(__dirname, "src/index.js"), // main entry for your library
-      name: "SariayaMap", // global name for <script> usage
-      fileName: (format) => `sariaya-map.${format}.js`
+      entry: './src/index.js',
+      name: "VueMapLibrary", // global name for <script> usage
+      fileName: (format) => `my-vue-map.${format}.js`
     },
     rollupOptions: {
-      external: ["vue"], // don’t bundle Vue itself
+      external: ['vue', 'leaflet'],
       output: {
         globals: {
-          vue: "Vue"
+          vue: 'Vue',
+          leaflet: 'L'
         }
       }
     }

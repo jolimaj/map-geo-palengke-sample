@@ -1,10 +1,11 @@
-import SariayaMap from "./components/Map.vue";
+// src/index.js
+import Map from './components/Map.vue';
 
-export { SariayaMap }; // named export
+export { Map };
 
-// optional: install function for Vue.use()
+// Optional default export for Vue plugin usage
 export default {
   install(app) {
-    app.component("SariayaMap", SariayaMap);
+    app.component('VueMap', Map);
   }
 };
