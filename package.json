@@ -1,14 +1,10 @@
+
 {
   "name": "map-geo-palengke-sample",
-  "version": "0.0.2",
   "author": {
     "name": "Jolima Javin"
   },
-  "private": false,
-  "type": "module",
-  "engines": {
-    "node": "^20.19.0 || >=22.12.0"
-  },
+  "version": "1.0.0",
   "main": "dist/map-geo-palengke-sample.umd.js",
   "module": "dist/map-geo-palengke-sample.es.js",
   "exports": {
@@ -19,24 +15,17 @@
   },
   "files": ["dist", "src"],
   "scripts": {
-    "build": "vite build",
-    "dev": "vite"
+    "dev": "vite",
+    "build": "vite build"
   },
   "peerDependencies": {
     "vue": "^3.2.0",
     "leaflet": "^1.9.0"
   },
   "dependencies": {
-    "leaflet": "^1.9.4",
-    "leaflet-control-geocoder": "^3.3.0",
-    "leaflet-search": "^4.0.0",
-    "leaflet.browser.print": "^2.0.2",
-    "leaflet.locatecontrol": "^0.85.1",
-    "vue": "^3.5.18"
-  },
-  "devDependencies": {
-    "@vitejs/plugin-vue": "^6.0.1",
-    "vite": "^7.0.6",
-    "vite-plugin-vue-devtools": "^8.0.0"
+    "leaflet-search": "^3.0.0",
+    "leaflet-control-geocoder": "^2.4.0",
+    "leaflet.locatecontrol": "^0.76.0",
+    "leaflet.browser.print": "^0.2.0"
   }
 }
