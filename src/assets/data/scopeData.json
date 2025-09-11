@@ -1,4 +1,4 @@
-var volante1 = {
+{
   "type": "FeatureCollection",
   "features": [
   {
@@ -81,4 +81,3 @@ var volante1 = {
     "id": 2
   }]
 }
-export default volante1;

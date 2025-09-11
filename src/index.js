@@ -1,4 +1,4 @@
-import SariayaMap from "./components/SariayaMap.vue";
+import SariayaMap from "./components/Map.vue";
 
 export { SariayaMap }; // named export
 
