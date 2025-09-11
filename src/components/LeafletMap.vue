@@ -16,6 +16,7 @@ function onStallClick(data) {
     :scope-data="scopeData"
     :center="[13.965601, 121.527501]"
     :zoom="20"
+    height="500px" 
     @stall-click="onStallClick"
   />
 </div>
